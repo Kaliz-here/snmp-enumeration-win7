@@ -1,4 +1,4 @@
-# SNMP Enumeration Using Metasploit
+# SNMP Enumeration Using Metasploit and nmap
 
 ## Project Overview
 A hands-on cybersecurity lab focused on understanding Simple Network Management Protocol (SNMP) enumeration using Kali Linux, SNMP utilities, and the Metasploit Framework.
